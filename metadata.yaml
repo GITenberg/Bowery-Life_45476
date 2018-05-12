@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '43308'
     url: http://www.gutenberg.org/2009/agents/43308
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45476#Bowery-Life
 gutenberg_issued: '2014-04-24'
 gutenberg_type: Text
 identifiers:
